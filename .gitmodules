@@ -1,0 +1,33 @@
+[submodule "puppet-apt"]
+	path = puppet-apt
+	url = git://github.com/Shazburg/puppet-apt.git
+[submodule "puppet-byobu"]
+	path = puppet-byobu
+	url = git://github.com/Shazburg/puppet-byobu.git
+[submodule "puppet-git"]
+	path = puppet-git
+	url = git://github.com/Shazburg/puppet-git.git
+[submodule "puppet-irssi"]
+	path = puppet-irssi
+	url = git://github.com/Shazburg/puppet-irssi.git
+[submodule "puppet-less"]
+	path = puppet-less
+	url = git://github.com/Shazburg/puppet-less.git
+[submodule "puppet-nginx"]
+	path = puppet-nginx
+	url = git://github.com/Shazburg/puppet-nginx.git
+[submodule "puppet-puppetmaster"]
+	path = puppet-puppetmaster
+	url = git://github.com/Shazburg/puppet-puppetmaster.git
+[submodule "puppet-screen"]
+	path = puppet-screen
+	url = git://github.com/Shazburg/puppet-screen.git
+[submodule "puppet-sudo"]
+	path = puppet-sudo
+	url = git://github.com/Shazburg/puppet-sudo.git
+[submodule "puppet-vim"]
+	path = puppet-vim
+	url = git://github.com/Shazburg/puppet-vim.git
+[submodule "puppet-zsh"]
+	path = puppet-zsh
+	url = git://github.com/Shazburg/puppet-zsh.git
